@@ -1,0 +1,7 @@
+Typing test Rules:-
+
+1) Use of backspace key is not allowed!
+2) As soon as the topic is choosen, the timer starts running.
+3) All letters are case sensitive, please be careful while typing.
+4) WPM is based on how much correctly you type, even if a single letter is incorrect, the whole word will be considered as incorrect.
+5) Space for typing is provided just below each line of the paragraph for convinence.
